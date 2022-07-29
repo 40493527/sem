@@ -7,4 +7,4 @@ Due to errors in my time management and computers data being corrupted on my ext
 4. top n populated cities in the world where n is user generated, not done 
 5. people living in country, not done 
 6. people not living in cities, not done 
-7. people living in cities, not done 
+7. people living in cities, not done.
